@@ -1,3 +1,4 @@
 def prime? (num)
   if num < 0 || num = 0 || num = 1
-    # Add  code here!
+    returns false 
+    else # Add  code here!
